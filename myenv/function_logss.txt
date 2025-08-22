@@ -1,4 +1,4 @@
-Function: add was Called at [2025-08-22 13-41-44] 
+Function: add was Called at [2025-08-22 15-06-32] 
                 Arguments: (5, 4), kwargs={} 
                 Returned: 9 
                 
@@ -6,13 +6,13 @@ Function: add was Called at [2025-08-22 13-41-44]
 
             Function Name   :add
             DocString       :This is the function for addition
-            Module          :This is the function for addition
+            Module          :__main__
             Annotations     :{'a': <class 'int'>, 'b': <class 'int'>, 'return': <class 'int'>}
             Defaults        :None
 
             
 --------------------------------------------------
-Function: add was Called at [2025-08-22 13-41-44] 
+Function: add was Called at [2025-08-22 15-06-32] 
                 Arguments: (2, 3), kwargs={} 
                 Returned: 5 
                 
@@ -20,13 +20,13 @@ Function: add was Called at [2025-08-22 13-41-44]
 
             Function Name   :add
             DocString       :This is the function for addition
-            Module          :This is the function for addition
+            Module          :__main__
             Annotations     :{'a': <class 'int'>, 'b': <class 'int'>, 'return': <class 'int'>}
             Defaults        :None
 
             
 --------------------------------------------------
-Function: add was Called at [2025-08-22 13-41-44] 
+Function: add was Called at [2025-08-22 15-06-32] 
                 Arguments: (1, 3), kwargs={} 
                 Returned: 4 
                 
@@ -34,13 +34,13 @@ Function: add was Called at [2025-08-22 13-41-44]
 
             Function Name   :add
             DocString       :This is the function for addition
-            Module          :This is the function for addition
+            Module          :__main__
             Annotations     :{'a': <class 'int'>, 'b': <class 'int'>, 'return': <class 'int'>}
             Defaults        :None
 
             
 --------------------------------------------------
-Function: add was Called at [2025-08-22 13-41-44] 
+Function: add was Called at [2025-08-22 15-06-32] 
                 Arguments: (5, 5), kwargs={} 
                 Returned: 10 
                 
@@ -48,7 +48,7 @@ Function: add was Called at [2025-08-22 13-41-44]
 
             Function Name   :add
             DocString       :This is the function for addition
-            Module          :This is the function for addition
+            Module          :__main__
             Annotations     :{'a': <class 'int'>, 'b': <class 'int'>, 'return': <class 'int'>}
             Defaults        :None
 
