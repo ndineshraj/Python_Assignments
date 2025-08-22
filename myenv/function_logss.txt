@@ -1,0 +1,56 @@
+Function: add was Called at [2025-08-22 13-41-44] 
+                Arguments: (5, 4), kwargs={} 
+                Returned: 9 
+                
+--------------META DATA---------------------
+
+            Function Name   :add
+            DocString       :This is the function for addition
+            Module          :This is the function for addition
+            Annotations     :{'a': <class 'int'>, 'b': <class 'int'>, 'return': <class 'int'>}
+            Defaults        :None
+
+            
+--------------------------------------------------
+Function: add was Called at [2025-08-22 13-41-44] 
+                Arguments: (2, 3), kwargs={} 
+                Returned: 5 
+                
+--------------META DATA---------------------
+
+            Function Name   :add
+            DocString       :This is the function for addition
+            Module          :This is the function for addition
+            Annotations     :{'a': <class 'int'>, 'b': <class 'int'>, 'return': <class 'int'>}
+            Defaults        :None
+
+            
+--------------------------------------------------
+Function: add was Called at [2025-08-22 13-41-44] 
+                Arguments: (1, 3), kwargs={} 
+                Returned: 4 
+                
+--------------META DATA---------------------
+
+            Function Name   :add
+            DocString       :This is the function for addition
+            Module          :This is the function for addition
+            Annotations     :{'a': <class 'int'>, 'b': <class 'int'>, 'return': <class 'int'>}
+            Defaults        :None
+
+            
+--------------------------------------------------
+Function: add was Called at [2025-08-22 13-41-44] 
+                Arguments: (5, 5), kwargs={} 
+                Returned: 10 
+                
+--------------META DATA---------------------
+
+            Function Name   :add
+            DocString       :This is the function for addition
+            Module          :This is the function for addition
+            Annotations     :{'a': <class 'int'>, 'b': <class 'int'>, 'return': <class 'int'>}
+            Defaults        :None
+
+            
+--------------------------------------------------
